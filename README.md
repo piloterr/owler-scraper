@@ -155,7 +155,7 @@ Example response from the API reference, abridged — real values depend on the 
       "revenue": 69444000000,
       "ownership": "Public",
       "ceo_detail": {
-        "ceo_pic": "https://image4.owler.com/ceo/Robert K._Ortberg_owler_20240807_190640_original.png",
+        "ceo_pic": "https://image4.owler.com/placeholder/example-user.jpg",
         "last_name": "example",
         "ceo_rating": 67,
         "first_name": "example",
@@ -371,7 +371,7 @@ Any language that can make an HTTP request. This README shows Python and TypeScr
 - [Europages Scraper API](https://github.com/piloterr/europages-scraper)
 - [Fiverr Scraper API](https://github.com/piloterr/fiverr-scraper)
 - [G2 Scraper API](https://github.com/piloterr/g2-scraper)
-- [github-scraper](https://github.com/piloterr/github-scraper)
+- [GitHub Scraper API](https://github.com/piloterr/github-scraper)
 - [All Piloterr scrapers on GitHub](https://github.com/piloterr)
 
 ## Support
