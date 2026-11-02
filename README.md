@@ -69,7 +69,7 @@ response = requests.get(
     params={
         "query": "https://owler.com/company/tesla",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -236,7 +236,7 @@ response = requests.get(
     params={
         "query": "tesla",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
